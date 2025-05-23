@@ -20,12 +20,11 @@ Reset functionality for replay
 
 ⚙️ Technologies Used:
 HTML
-
 CSS
-
 JavaScript (for logic, event handling, and DOM manipulation)
 
 📌 Learning Highlights:
+
 Designed and implemented game logic and winning conditions
 
 Practiced event-driven programming and state management
